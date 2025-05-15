@@ -16,7 +16,7 @@ Control media playback using your hand gestures with this Python-based project.
   - 👍 Previous Track
 - Sends system media keys via `keyboard` module
 
-#DEMO
+# DEMO
 ![Demo](visual/demo.gif)
 
 ## 🚀 How to Run
