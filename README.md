@@ -11,8 +11,8 @@ Control media playback using your hand gestures with this Python-based project.
 ## 🛠️ How It Works
 - Detects hand using MediaPipe
 - Recognizes gestures:
-  - ✌️ Play/Pause
-  - 🤙 Next Track
+  - 🖐 Play/Pause
+  - ☝ Next Track
   - 👍 Previous Track
 - Sends system media keys via `keyboard` module
 
