@@ -23,3 +23,7 @@ Control media playback using your hand gestures with this Python-based project.
 ```bash
 pip install -r requirements.txt
 python media_controller.py
+```
+
+## 🛑 How to stop
+Just press key 'q'
